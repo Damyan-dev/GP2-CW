@@ -1,3 +1,14 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Preview\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (GP2 Coursework.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BGAudio.cpp
+  Display.cpp
+  main.cpp
   MainGame.cpp
-  Lab1.vcxproj -> D:\Docs\GP2 Coursework\Debug\Lab1.exe
+  Mesh.cpp
+D:\Unity Projects\GP2-CW\Lab1\Mesh.cpp(62,9): warning C4930: 'Sphere meshSphere(void)': prototyped function not called (was a variable definition intended?)
+  obj_loader.cpp
+D:\Unity Projects\GP2-CW\Lab1\obj_loader.cpp(378,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Shader.cpp
+  Texture.cpp
+  Generating Code...
+  stb_image.c
+  Lab1.vcxproj -> D:\Unity Projects\GP2-CW\Debug\Lab1.exe
